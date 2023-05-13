@@ -15,11 +15,17 @@ The project demonstrates the use of fundamental Python concepts such as function
 
 ## Installation
 
-1. Clone the repository to your local machine: `git clone https://github.com/Alexander-C-Jessop/BlackJack.git`
+1. Clone the repository to your local machine:
 
-2. Navigate to the project directory: `cd BlackJack`
+```sh
+ git clone https://github.com/Alexander-C-Jessop/BlackJack.git
+```
 
-3. Install the required dependencies: `pip install -r requirements.txt`
+2. Navigate to the project directory:
+
+```sh
+cd BlackJack
+```
 
 ## Usage
 
@@ -27,7 +33,11 @@ The project demonstrates the use of fundamental Python concepts such as function
 
 2. Navigate to the project directory.
 
-3. Run the Python script to start the game: `py blackjack.py`
+3. Run the Python script to start the game:
+
+```sh
+py assignment_5_black_jack_alexander_jessop.py
+```
 
 4. Follow the prompts on the screen to play the game.
 
